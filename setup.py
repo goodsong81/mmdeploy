@@ -174,9 +174,9 @@ def get_extensions():
 
 if __name__ == '__main__':
     setup(
-        name='mmdeploy',
+        name='otxdeploy',
         version=get_version(),
-        description='OpenMMLab Model Deployment',
+        description='(Temp fork for PyPI packaging) OpenMMLab Model Deployment',
         long_description=readme(),
         long_description_content_type='text/markdown',
         author='OpenMMLab',
